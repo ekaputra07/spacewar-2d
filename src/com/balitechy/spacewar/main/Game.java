@@ -1,9 +1,3 @@
-/*
- * CREDITS
- * Sprites: http://www.widgetworx.com/widgetworx/portfolio/spritelib.html
- * Background: http://www.vickiwenderlich.com/2011/05/game-pack-space-flier/
- */
-
 package com.balitechy.spacewar.main;
 
 import java.awt.Canvas;
